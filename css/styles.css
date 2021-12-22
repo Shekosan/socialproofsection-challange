@@ -1,0 +1,194 @@
+
+
+body {
+  width: 1440px;
+  margin-top: 0;
+  font-family: 'Spartan';
+  font-size: 15px;
+}
+
+.top-container {
+  position: absolute;
+  top: 120px;
+  left: 170px;
+}
+
+h1 {
+  font-size: 2.5rem;
+  color: HSL(300, 43%, 22%);
+  width: 30%;
+}
+
+.bottom-image {
+  position: absolute;
+  top: 150px;
+  right: 0;
+  width: 95%;
+}
+
+.little-caption {
+  color: hsl(303, 10%, 53%);
+  width: 37%;
+}
+
+.checked {
+  color: orange;
+}
+
+.t1 {
+  padding: 5px;
+  width: 30%;
+  border-radius: 10px;
+  position: absolute;
+  right: 360px;
+  top: 160px;
+  background-color: hsl(300, 24%, 96%);
+}
+
+.t2 {
+  padding: 5px;
+  width: 30%;
+  border-radius: 10px;
+  position: absolute;
+  right: 280px;
+  top: 240px;
+  background-color: hsl(300, 24%, 96%);
+}
+
+.t3 {
+  padding: 5px;
+  width: 30%;
+  border-radius: 10px;
+  position: absolute;
+  right: 220px;
+  top: 320px;
+  background-color: hsl(300, 24%, 96%);
+}
+
+.t1text {
+  font-weight: bold;
+  color: hsl(300, 43%, 22%);
+}
+
+.t2text {
+  font-weight: bold;
+  color: hsl(300, 43%, 22%);
+}
+
+.t3text {
+  font-weight: bold;
+  color: hsl(300, 43%, 22%);
+}
+
+.star1 {
+  margin-left: 20px;
+  margin-right: 20px;
+  float: left;
+}
+
+.star2 {
+  margin-left: 20px;
+  margin-right: 20px;
+  float: left;
+}
+
+.star3 {
+  margin-left: 20px;
+  margin-right: 20px;
+  float: left;
+}
+
+h4 {
+  margin-top: 15px;
+  line-height: 0;
+  color: hsl(0, 0%, 100%);
+}
+
+h5 {
+  margin-bottom: 50px;
+  line-height: 0;
+  margin-left: 50px;
+  color: hsl(333, 80%, 67%);
+  font-weight: normal;
+}
+
+.first-person {
+  position: absolute;
+  top: 430px;
+  left: 150px;
+  border-radius: 10px;
+  background-color: hsl(300, 43%, 22%);
+  padding: 30px;
+  width: 23%;
+}
+
+.seconde-person {
+  position: absolute;
+  left: 370px;
+  top: 450px;
+  margin-left: 200px;
+  margin-bottom: 100px;
+  border-radius: 10px;
+  background-color: hsl(300, 43%, 22%);
+  padding: 30px;
+  width: 23%;
+}
+
+.third-person {
+  position: absolute;
+  left: 790px;
+  top: 480px;
+  margin-left: 200px;
+  margin-bottom: 100px;
+  border-radius: 10px;
+  background-color: hsl(300, 43%, 22%);
+  padding: 30px;
+  width: 23%;
+}
+
+.coltonimg {
+  float: left;
+  margin-right: 30px;
+  border-radius: 50%;
+  width: 15%;
+}
+
+.ireneimg {
+  float: left;
+  margin-right: 30px;
+  border-radius: 50%;
+  width: 15%;
+}
+
+.annieimg {
+  float: left;
+  margin-right: 30px;
+  border-radius: 50%;
+  width: 15%;
+}
+
+.firstp {
+  font-size: 12px;
+  line-height: 1.5;
+  width: 91%;
+  color: hsl(300, 24%, 96%);
+}
+
+.secondep {
+  font-size: 12px;
+  line-height: 1.5;
+  width: 91%;
+  color: hsl(300, 24%, 96%);
+}
+
+.finalp {
+  font-size: 12px;
+  line-height: 1.5;
+  width: 91%;
+  color: hsl(300, 24%, 96%);
+}
+.attribution{
+  position: relative;
+  top: 600px;
+  left: 500px;
+}
